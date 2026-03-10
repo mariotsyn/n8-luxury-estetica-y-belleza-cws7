@@ -1,0 +1,57 @@
+{
+  "business": {
+    "name": "Luxury Estética y Belleza",
+    "tagline": "Tu oasis de lujo y bienestar en Dénia.",
+    "description": "En Luxury Estética y Belleza, transformamos tu rutina de cuidado personal en una experiencia excepcional. Ofrecemos tratamientos de vanguardia para realzar tu belleza y bienestar integral, con un servicio personalizado y resultados visibles. Ven y descubre el arte de cuidarte en un ambiente exclusivo.",
+    "phone": "+34 643 04 31 99",
+    "address": "C/ Quevedo, 28, 03700 Dénia, Alicante, España",
+    "email": "info@luxuryesteticadenia.es",
+    "rating": 4.9,
+    "reviewCount": 42,
+    "hours": ["Monday: 10:00 AM – 7:00 PM","Tuesday: 10:00 AM – 7:00 PM","Wednesday: 10:00 AM – 7:00 PM","Thursday: 10:00 AM – 7:00 PM","Friday: 10:00 AM – 7:00 PM","Saturday: 9:00 AM – 1:00 PM","Sunday: Closed"]
+  },
+  "theme": {
+    "primary": "#3E6F6C",
+    "secondary": "#2C3E50",
+    "accent": "#E7AD99",
+    "mode": "dark"
+  },
+  "hero": {
+    "headline": "Transforma tu belleza. Desconecta y brilla en Dénia.",
+    "subheadline": "Descubre un santuario de cuidado personal en Dénia. Tratamientos expertos diseñados para realzar tu belleza y bienestar integral.",
+    "cta1": { "text": "Pedir Cita Ahora", "href": "#contact" },
+    "cta2": { "text": "Ver Servicios", "href": "#services" },
+    "imageUrl": "https://places.googleapis.com/v1/places/ChIJIwWCqYsbnhIR11r6-xvMgnU/photos/ATCDNfXmf5tIpQHV0l0obw3k1afky3vgJ5xJoiaC8H4_fGmVu7kWP7HZs7ld9a7aHnj2Qp8NMM7i1CQzFmOrWrIGBDGFVVb8nW0Mo8WmaR91tBAU-g59_o6rST1HAIWOxbGF2G4KmgO3xCyIURdzr1jnZ0FYCauz6nkXlSA-JGdL3U0PdHs_mpDi30ZwKUPRULrnrxidIyxXVlgwxjORkGy-dfS1-viAnfECWdSnfUWbGRcC0cMjYfGEEltmWyDDEkUxTk1qGliM82uMvTlgR4lfGymbKsYJmOMsDQrDUv3tpUPUUA/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
+  },
+  "services": [
+    { "icon": "💅", "title": "Manicura & Pedicura Premium", "description": "Cuida tus manos y pies con tratamientos exclusivos que embellecen y nutren profundamente. Disfruta de acabados perfectos y duraderos que reflejan tu estilo personal." },
+    { "icon": "✨", "title": "Tratamientos Faciales Personalizados", "description": "Renueva tu piel con diagnósticos precisos y soluciones a medida para cada necesidad específica. Luce un rostro radiante, joven y lleno de vitalidad con nuestros protocolos avanzados." },
+    { "icon": "💆‍♀️", "title": "Rituales de Masaje y Bienestar", "description": "Desconecta del estrés con nuestros masajes relajantes y terapias corporales diseñadas para tu máximo confort. Sumérgete en una experiencia de calma y rejuvenecimiento total para cuerpo y mente." },
+    { "icon": "💇‍♀️", "title": "Peluquería de Vanguardia", "description": "Cambia tu look o realza tu estilo con los cortes, tintes y peinados más actuales y favorecedores. Nuestros estilistas expertos te asesorarán para un resultado espectacular que amarás." }
+  ],
+  "about": {
+    "title": "Nuestra Filosofía de Belleza y Lujo",
+    "text": "En Luxury Estética y Belleza, entendemos la belleza como una expresión única de cada persona. Nos dedicamos a ofrecer una experiencia transformadora donde la calidad, la personalización y la atención al detalle son nuestra máxima prioridad. Desde nuestro acogedor salón en Dénia, nos esforzamos por crear un espacio donde te sientas mimado, escuchado y, sobre todo, radiante.\n\nCreemos firmemente en la combinación de la técnica experta con productos de alta gama. Nuestro equipo de profesionales está altamente cualificado y en constante formación para aplicar las últimas tendencias y tratamientos, garantizando resultados excepcionales y una piel y cabello saludables. Tu bienestar es nuestra inspiración y tu satisfacción, nuestra mayor recompensa.\n\nDescubre por qué nuestros clientes nos valoran con un 4.9 en Google. Ven y déjate llevar por una experiencia de belleza que va más allá de lo estético, enfocándose en tu equilibrio y felicidad. Te esperamos para realzar tu luz interior y exterior.",
+    "imageUrl": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80"
+  },
+  "gallery": [
+    { "url": "https://places.googleapis.com/v1/places/ChIJIwWCqYsbnhIR11r6-xvMgnU/photos/ATCDNfXmf5tIpQHV0l0obw3k1afky3vgJ5xJoiaC8H4_fGmVu7kWP7HZs7ld9a7aHnj2Qp8NMM7i1CQzFmOrWrIGBDGFVVb8nW0Mo8WmaR91tBAU-g59_o6rST1HAIWOxbGF2G4KmgO3xCyIURdzr1jnZ0FYCauz6nkXlSA-JGdL3U0PdHs_mpDi30ZwKUPRULrnrxidIyxXVlgwxjORkGy-dfS1-viAnfECWdSnfUWbGRcC0cMjYfGEEltmWyDDEkUxTk1qGliM82uMvTlgR4lfGymbKsYJmOMsDQrDUv3tpUPUUA/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8", "alt": "Interior acogedor de Luxury Estética y Belleza en Dénia" },
+    { "url": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80", "alt": "Mujer disfrutando de un relajante tratamiento facial en el salón" },
+    { "url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80", "alt": "Detalle de manicura profesional y cuidado de manos en un ambiente de lujo" }
+  ],
+  "testimonials": [
+    { "name": "Elena García", "stars": 5, "text": "¡Un salón espectacular en Dénia! Siempre salgo feliz con los resultados. La atención es de 10 y los tratamientos son una maravilla." },
+    { "name": "Sofía Ramos", "stars": 5, "text": "Mi lugar favorito para desconectar y cuidarme. Sus tratamientos faciales son increíbles y el personal es muy profesional y amable." },
+    { "name": "Laura Vidal", "stars": 4, "text": "Excelente servicio de peluquería, me encantó el corte y el color. El ambiente es muy agradable y te hacen sentir como en casa. ¡Volveré pronto!" }
+  ],
+  "contact": {
+    "title": "Haz tu Cita y Empieza a Brillar",
+    "subtitle": "Contáctanos hoy para una experiencia de belleza inolvidable y personalizada.",
+    "whatsappNumber": "+34 643 04 31 99",
+    "showMap": true,
+    "mapQuery": "Luxury Estética y Belleza C/ Quevedo, 28, 03700 Dénia, Alicante, España"
+  },
+  "footer": {
+    "copyright": "© 2026 Luxury Estética y Belleza"
+  }
+}
