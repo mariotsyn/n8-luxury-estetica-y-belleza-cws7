@@ -1,13 +1,13 @@
 {
   "business": {
     "name": "Luxury Estética y Belleza",
-    "tagline": "Tu oasis de belleza y bienestar en Dénia.",
-    "description": "En Luxury Estética y Belleza transformamos el cuidado personal en una experiencia de lujo. Con una valoración de 4.9 estrellas, nuestro equipo de expertas te ofrece tratamientos personalizados para realzar tu belleza natural.",
+    "tagline": "Tu templo de belleza y bienestar en Dénia.",
+    "description": "Expertos en realzar tu belleza natural con tratamientos personalizados y vanguardistas. Un espacio exclusivo dedicado a tu cuidado integral en pleno corazón de Dénia.",
     "phone": "+34 643 04 31 99",
     "address": "C/ Quevedo, 28, 03700 Dénia, Alicante, España",
-    "email": "contacto@luxuryesteticadenia.es",
+    "email": "info@luxuryesteticadenia.es",
     "rating": 4.9,
-    "reviewCount": 93,
+    "reviewCount": 117,
     "hours": [
       "Monday: 10:00 AM – 7:00 PM",
       "Tuesday: 10:00 AM – 7:00 PM",
@@ -19,85 +19,85 @@
     ]
   },
   "theme": {
-    "primary": "#D4AFB9",
-    "secondary": "#2D2D2D",
-    "accent": "#C08552",
+    "primary": "#C5A059",
+    "secondary": "#1A1A1A",
+    "accent": "#E6B89C",
     "mode": "dark"
   },
   "hero": {
-    "headline": "Redescubre tu belleza. Vive una experiencia Luxury.",
-    "subheadline": "Tratamientos de estética avanzada y belleza personalizados para que te sientas radiante por dentro y por fuera en Dénia.",
+    "headline": "Eleva tu estilo con la exclusividad que mereces",
+    "subheadline": "Descubre la excelencia en estética y peluquería en Dénia. Transformamos tu imagen con técnicas profesionales y atención personalizada.",
     "cta1": {
-      "text": "Pedir Cita Ahora",
+      "text": "Reservar Cita",
       "href": "#contact"
     },
     "cta2": {
-      "text": "Ver Tratamientos",
+      "text": "Ver Servicios",
       "href": "#services"
     },
     "imageUrl": "https://places.googleapis.com/v1/places/ChIJIwWCqYsbnhIR11r6-xvMgnU/photos/ATCDNfXmf5tIpQHV0l0obw3k1afky3vgJ5xJoiaC8H4_fGmVu7kWP7HZs7ld9a7aHnj2Qp8NMM7i1CQzFmOrWrIGBDGFVVb8nW0Mo8WmaR91tBAU-g59_o6rST1HAIWOxbGF2G4KmgO3xCyIURdzr1jnZ0FYCauz6nkXlSA-JGdL3U0PdHs_mpDi30ZwKUPRULrnrxidIyxXVlgwxjORkGy-dfS1-viAnfECWdSnfUWbGRcC0cMjYfGEEltmWyDDEkUxTk1qGliM82uMvTlgR4lfGymbKsYJmOMsDQrDUv3tpUPmUA/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8"
   },
   "services": [
     {
+      "icon": "✂️",
+      "title": "Peluquería de Autor",
+      "description": "Cortes de tendencia y coloración personalizada diseñada para resaltar tus rasgos. Utilizamos productos premium para garantizar salud y brillo en tu cabello."
+    },
+    {
       "icon": "💆‍♀️",
-      "title": "Tratamientos Faciales Avanzados",
-      "description": "Rejuvenece tu piel con limpiezas profundas, radiofrecuencia y terapias personalizadas. Devolvemos la luminosidad y firmeza a tu rostro."
+      "title": "Tratamientos Faciales",
+      "description": "Revitaliza tu piel con nuestros protocolos antiedad y de hidratación profunda. Resultados visibles desde la primera sesión con tecnología de vanguardia."
     },
     {
       "icon": "💅",
-      "title": "Manicura y Pedicura Premium",
-      "description": "Luce unas manos y pies impecables con nuestros tratamientos de esmaltado y spa. Cuidamos cada detalle para un acabado perfecto y duradero."
+      "title": "Manicura y Pedicura",
+      "description": "Cuidado detallado de manos y pies con acabados impecables y duraderos. El toque de elegancia final que complementa tu look diario."
     },
     {
       "icon": "✨",
-      "title": "Depilación Láser y Cera",
-      "description": "Disfruta de una piel suave y libre de vello durante más tiempo. Utilizamos las técnicas más efectivas y cuidadosas para tu tipo de piel."
-    },
-    {
-      "icon": "🌿",
-      "title": "Masajes Relajantes",
-      "description": "Libera tensiones y conecta con tu bienestar en nuestro oasis de calma. Un momento de paz y relajación solo para ti."
+      "title": "Estética Avanzada",
+      "description": "Servicios exclusivos de belleza integral para que te sientas radiante. Personal experto dedicado a cumplir tus objetivos de imagen personal."
     }
   ],
   "about": {
-    "title": "Donde la Belleza se Convierte en Arte",
-    "text": "Luxury Estética y Belleza nació en el corazón de Dénia con una misión clara: ofrecer un santuario de bienestar donde cada cliente reciba una atención excepcional y personalizada. Creemos que la verdadera belleza emana de la confianza y el cuidado, por eso nuestro equipo de profesionales está en constante formación para ofrecerte las técnicas más innovadoras y los productos de la más alta calidad.\n\nCon una valoración de 4.9 estrellas, nuestro compromiso es tu satisfacción. No somos solo un salón de belleza; somos un espacio donde te escuchamos, asesoramos y mimamos para que cada visita sea una experiencia única. Tu momento de desconexión y cuidado empieza aquí.",
+    "title": "Más que un salón, una experiencia Luxury",
+    "text": "En Luxury Estética y Belleza, creemos que cuidarse es una forma de amor propio. Desde nuestra ubicación en la calle Quevedo en Dénia, nos hemos consolidado como un referente de calidad gracias a una atención cercana y un equipo altamente cualificado.\n\nNuestro compromiso es la excelencia: combinamos las últimas tendencias del sector con un trato exclusivo para que cada visita se convierta en tu momento de desconexión. Tu satisfacción es nuestro mayor aval y lo que nos impulsa a seguir innovando cada día.",
     "imageUrl": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80"
   },
   "gallery": [
     {
       "url": "https://places.googleapis.com/v1/places/ChIJIwWCqYsbnhIR11r6-xvMgnU/photos/ATCDNfXmf5tIpQHV0l0obw3k1afky3vgJ5xJoiaC8H4_fGmVu7kWP7HZs7ld9a7aHnj2Qp8NMM7i1CQzFmOrWrIGBDGFVVb8nW0Mo8WmaR91tBAU-g59_o6rST1HAIWOxbGF2G4KmgO3xCyIURdzr1jnZ0FYCauz6nkXlSA-JGdL3U0PdHs_mpDi30ZwKUPRULrnrxidIyxXVlgwxjORkGy-dfS1-viAnfECWdSnfUWbGRcC0cMjYfGEEltmWyDDEkUxTk1qGliM82uMvTlgR4lfGymbKsYJmOMsDQrDUv3tpUPmUA/media?maxWidthPx=1200&key=AIzaSyAVvBWUrtTMnut45RFBuVKNz61wSg1Ebd8",
-      "alt": "Interior del salón Luxury Estética y Belleza en Dénia, con zona de manicura."
+      "alt": "Fachada y entrada de Luxury Estética"
     },
     {
       "url": "https://images.unsplash.com/photo-1560066984-138dadb4c035?w=1200&q=80",
-      "alt": "Profesional de estética aplicando un tratamiento facial a una clienta en un ambiente relajado."
+      "alt": "Interior elegante del salón de belleza"
     },
     {
       "url": "https://images.unsplash.com/photo-1522337360788-8b13dee7a37e?w=1200&q=80",
-      "alt": "Detalle de manos de una clienta con una manicura elegante y cuidada."
+      "alt": "Servicios de peluquería profesional"
     }
   ],
   "testimonials": [
     {
-      "name": "Laura García",
+      "name": "María García",
       "stars": 5,
-      "text": "El trato es inmejorable y los resultados espectaculares. ¡Mi centro de confianza en Dénia sin duda!"
+      "text": "El mejor salón de Dénia, sin duda. Salí encantada con el color y el trato recibido por todo el equipo."
     },
     {
-      "name": "Sofía Martínez",
+      "name": "Elena Martínez",
       "stars": 5,
-      "text": "Un ambiente súper relajante y unas profesionales increíbles. Salgo siempre renovada y feliz."
+      "text": "Profesionalidad de 10. Siempre que voy me siento mimada y los resultados son espectaculares."
     },
     {
-      "name": "Carmen Pérez",
+      "name": "Laura Torres",
       "stars": 4,
-      "text": "Me encantó el tratamiento facial. El personal es muy atento, aunque a veces es difícil conseguir cita. ¡Recomendable!"
+      "text": "Muy buena experiencia, un local impecable y muy buena atención al cliente. Repetiré seguro."
     }
   ],
   "contact": {
-    "title": "Reserva Tu Momento de Bienestar",
-    "subtitle": "Contacta con nosotros por teléfono o WhatsApp y agenda tu próxima cita. ¡Te estamos esperando!",
+    "title": "¿Lista para brillar?",
+    "subtitle": "Reserva tu cita hoy mismo y déjate cuidar por nuestras manos expertas.",
     "whatsappNumber": "+34 643 04 31 99",
     "showMap": true,
     "mapQuery": "Luxury Estética y Belleza C/ Quevedo, 28, 03700 Dénia, Alicante, España"
